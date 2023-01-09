@@ -1,3 +1,4 @@
+//Naive solution to this problem
 module top_module(
     input clk,
     input in,
